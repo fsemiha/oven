@@ -1,0 +1,1 @@
+#define LONGTIME 3000
